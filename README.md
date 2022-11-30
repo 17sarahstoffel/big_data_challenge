@@ -1,5 +1,5 @@
 # big_data_challenge
-This is my solution to homework 22 for data bootcamp. I used the hint code that Dom provided for the class.
+This is my solution to homework 22 for data bootcamp. I used the hint code that Dom provided for the class and the sql files provided by the bootcamp.
 
 
 ## Overview
